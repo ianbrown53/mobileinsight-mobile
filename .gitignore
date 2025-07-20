@@ -1,0 +1,16 @@
+app/data/android_pie_ws_dissector
+app/data/android_ws_dissector
+app/data/diag_revealer
+app/data/diag_revealer_mtk
+app/data/libgio-2.0.so
+app/data/libglib-2.0.so
+app/data/libgmodule-2.0.so
+app/data/libgobject-2.0.so
+app/data/libgthread-2.0.so
+app/data/libwireshark.so
+app/data/libwiretap.so
+app/data/libwsutil.so
+app/data/tcpdump
+config/config.yml
+diag_revealer/mtk/jni/diag_revealer_mtk
+diag_revealer/qcom/jni/diag_revealer
